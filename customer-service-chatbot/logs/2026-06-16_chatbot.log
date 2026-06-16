@@ -1,0 +1,5 @@
+2026-06-16 13:25:05,024 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-16 13:25:09,330 - ChatbotLogger - INFO - Session 7df3c438-1453-4c48-8226-9cb30ede32f2 - Received message: hi
+2026-06-16 13:25:10,130 - ChatbotLogger - INFO - Gemini Engine explicitly initialized inside response call.
+2026-06-16 13:25:31,521 - ChatbotLogger - INFO - Session 7df3c438-1453-4c48-8226-9cb30ede32f2 - Received message: crack a too funny joke
+2026-06-16 13:26:03,324 - ChatbotLogger - INFO - Session 7df3c438-1453-4c48-8226-9cb30ede32f2 - Received message: great

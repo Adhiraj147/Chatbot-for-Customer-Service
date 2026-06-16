@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Customer Service</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Orbitron:wght@500;700&family=Rajdhani:wght@500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="chat-container">
+        <!-- Header -->
+        <header class="chat-header">
+            <div class="header-info">
+                <div class="bot-avatar">
+                    <i class="fa-solid fa-robot"></i>
+                </div>
+                <div>
+                    <h2>Support Assistant</h2>
+                    <span class="status"><i class="fa-solid fa-circle"></i> Online</span>
+                </div>
+            </div>
+            <div class="header-actions">
+                <button id="theme-toggle" title="Toggle Dark Mode"><i class="fa-solid fa-moon"></i></button>
+                <button id="clear-chat" title="Clear Chat History"><i class="fa-solid fa-trash"></i></button>
+            </div>
+        </header>
+
+        <!-- Chat Area -->
+        <div class="chat-body" id="chat-body">
+            <div class="message bot-message">
+                <div class="avatar"><i class="fa-solid fa-robot"></i></div>
+                <div class="content">
+                    <p>Hello! I am your AI support assistant. How can I help you today?</p>
+                    <span class="timestamp" id="welcome-time"></span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quick Replies (FAQ) -->
+        <div class="quick-replies">
+            <button class="qr-btn" data-query="Where is my order?">Track Order</button>
+            <button class="qr-btn" data-query="What is your return policy?">Return Policy</button>
+            <button class="qr-btn" data-query="How can I contact a human?">Contact Agent</button>
+            <button class="qr-btn" data-query="What are your business hours?">Business Hours</button>
+        </div>
+
+        <!-- Input Area -->
+        <div class="chat-footer">
+            <input type="text" id="user-input" placeholder="Type your message here..." autocomplete="off">
+            <button id="send-btn" title="Send Message">
+                <i class="fa-solid fa-paper-plane"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Hidden input to store session_id -->
+    <input type="hidden" id="session-id" value="{{ session_id }}">
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

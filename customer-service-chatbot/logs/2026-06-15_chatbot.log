@@ -1,0 +1,201 @@
+2026-06-15 14:10:06,390 - ChatbotLogger - INFO - Loaded 20 intents with 201 patterns.
+2026-06-15 14:10:06,394 - ChatbotLogger - INFO - TF-IDF model trained successfully.
+2026-06-15 14:12:10,168 - ChatbotLogger - INFO - Loaded 20 intents with 201 patterns.
+2026-06-15 14:12:10,171 - ChatbotLogger - INFO - TF-IDF model trained successfully.
+2026-06-15 14:12:15,132 - ChatbotLogger - INFO - Loaded 20 intents with 201 patterns.
+2026-06-15 14:12:15,134 - ChatbotLogger - INFO - TF-IDF model trained successfully.
+2026-06-15 14:20:00,181 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 14:20:46,871 - ChatbotLogger - INFO - Session 20807572-559c-4ea5-8fb4-1bebabe68dd1 - Received message: hello what can you do for me
+2026-06-15 14:20:46,878 - ChatbotLogger - INFO - User Input: 'hello what can you do for me' -> Score: 1.0000 -> Match Index: 1
+2026-06-15 14:21:15,875 - ChatbotLogger - INFO - Session 20807572-559c-4ea5-8fb4-1bebabe68dd1 - Received message: what can you do for me tell me that
+2026-06-15 14:21:15,875 - ChatbotLogger - INFO - User Input: 'what can you do for me tell me that' -> Score: 0.7897 -> Match Index: 110
+2026-06-15 14:21:33,262 - ChatbotLogger - INFO - Session 20807572-559c-4ea5-8fb4-1bebabe68dd1 - Received message: How can I contact a human?
+2026-06-15 14:21:33,262 - ChatbotLogger - INFO - User Input: 'How can I contact a human?' -> Score: 0.6801 -> Match Index: 91
+2026-06-15 14:21:48,260 - ChatbotLogger - INFO - Session 20807572-559c-4ea5-8fb4-1bebabe68dd1 - Received message: Where is my order?
+2026-06-15 14:21:48,260 - ChatbotLogger - INFO - User Input: 'Where is my order?' -> Score: 1.0000 -> Match Index: 31
+2026-06-15 14:22:17,045 - ChatbotLogger - INFO - Session 20807572-559c-4ea5-8fb4-1bebabe68dd1 - Received message: i want a casual talk with you
+2026-06-15 14:22:17,045 - ChatbotLogger - INFO - User Input: 'i want a casual talk with you' -> Score: 0.5767 -> Match Index: 14
+2026-06-15 14:22:41,672 - ChatbotLogger - INFO - Session 20807572-559c-4ea5-8fb4-1bebabe68dd1 - Received message: can i talk to you
+2026-06-15 14:22:41,672 - ChatbotLogger - INFO - User Input: 'can i talk to you' -> Score: 0.7669 -> Match Index: 14
+2026-06-15 14:23:03,603 - ChatbotLogger - INFO - Session 20807572-559c-4ea5-8fb4-1bebabe68dd1 - Received message: i am felling pain in my head
+2026-06-15 14:23:03,603 - ChatbotLogger - INFO - User Input: 'i am felling pain in my head' -> Score: 0.0000 -> Match Index: 0
+2026-06-15 14:23:03,603 - ChatbotLogger - INFO - Confidence too low. Returning fallback response.
+2026-06-15 14:45:59,508 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 14:46:04,880 - ChatbotLogger - INFO - Loaded 20 intents with 201 patterns.
+2026-06-15 14:46:04,893 - ChatbotLogger - INFO - TF-IDF model trained successfully.
+2026-06-15 14:46:11,730 - ChatbotLogger - INFO - Session 141bdc47-7c42-4d04-ac2e-d5aa85952e64 - Received message: hi
+2026-06-15 14:46:11,740 - ChatbotLogger - INFO - User Input: 'hi' -> Score: 1.0000 -> Match Index: 0
+2026-06-15 14:46:35,006 - ChatbotLogger - INFO - Session 141bdc47-7c42-4d04-ac2e-d5aa85952e64 - Received message: i want a casual talk with you
+2026-06-15 14:46:35,012 - ChatbotLogger - INFO - User Input: 'i want a casual talk with you' -> Score: 0.5767 -> Match Index: 14
+2026-06-15 14:46:54,790 - ChatbotLogger - INFO - Session 141bdc47-7c42-4d04-ac2e-d5aa85952e64 - Received message: What is your return policy?
+2026-06-15 14:46:54,790 - ChatbotLogger - INFO - User Input: 'What is your return policy?' -> Score: 1.0000 -> Match Index: 52
+2026-06-15 14:47:15,562 - ChatbotLogger - INFO - Session 141bdc47-7c42-4d04-ac2e-d5aa85952e64 - Received message: hi
+2026-06-15 14:47:15,562 - ChatbotLogger - INFO - User Input: 'hi' -> Score: 1.0000 -> Match Index: 0
+2026-06-15 14:47:25,459 - ChatbotLogger - INFO - Session 141bdc47-7c42-4d04-ac2e-d5aa85952e64 - Received message: hi
+2026-06-15 14:47:25,459 - ChatbotLogger - INFO - User Input: 'hi' -> Score: 1.0000 -> Match Index: 0
+2026-06-15 14:47:30,042 - ChatbotLogger - INFO - Session 141bdc47-7c42-4d04-ac2e-d5aa85952e64 - Received message: hi
+2026-06-15 14:47:30,045 - ChatbotLogger - INFO - User Input: 'hi' -> Score: 1.0000 -> Match Index: 0
+2026-06-15 14:47:35,235 - ChatbotLogger - INFO - Session 141bdc47-7c42-4d04-ac2e-d5aa85952e64 - Received message: hello
+2026-06-15 14:47:35,238 - ChatbotLogger - INFO - User Input: 'hello' -> Score: 1.0000 -> Match Index: 1
+2026-06-15 14:47:42,906 - ChatbotLogger - INFO - Session 141bdc47-7c42-4d04-ac2e-d5aa85952e64 - Received message: welcome
+2026-06-15 14:47:42,909 - ChatbotLogger - INFO - User Input: 'welcome' -> Score: 0.0000 -> Match Index: 0
+2026-06-15 14:47:42,909 - ChatbotLogger - INFO - Confidence too low. Returning fallback response.
+2026-06-15 14:47:52,042 - ChatbotLogger - INFO - Session 141bdc47-7c42-4d04-ac2e-d5aa85952e64 - Received message: thanks
+2026-06-15 14:47:52,042 - ChatbotLogger - INFO - User Input: 'thanks' -> Score: 1.0000 -> Match Index: 21
+2026-06-15 15:49:16,723 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 15:49:23,564 - ChatbotLogger - INFO - Session 65258153-1e59-4918-9196-67246f62bf59 - Received message: hi
+2026-06-15 15:49:23,564 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 15:49:28,350 - ChatbotLogger - INFO - Session 65258153-1e59-4918-9196-67246f62bf59 - Received message: hi
+2026-06-15 15:49:28,351 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 15:49:32,778 - ChatbotLogger - INFO - Session 65258153-1e59-4918-9196-67246f62bf59 - Received message: hello
+2026-06-15 15:49:32,778 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 15:49:34,767 - ChatbotLogger - INFO - Session 65258153-1e59-4918-9196-67246f62bf59 - Received message: dsfsd
+2026-06-15 15:49:34,767 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 15:49:36,322 - ChatbotLogger - INFO - Session 65258153-1e59-4918-9196-67246f62bf59 - Received message: s
+2026-06-15 15:49:36,322 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 15:49:44,363 - ChatbotLogger - INFO - Clearing history for session 65258153-1e59-4918-9196-67246f62bf59
+2026-06-15 15:49:46,799 - ChatbotLogger - INFO - Session 65258153-1e59-4918-9196-67246f62bf59 - Received message: Where is my order?
+2026-06-15 15:49:46,799 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 15:50:00,219 - ChatbotLogger - INFO - Session 65258153-1e59-4918-9196-67246f62bf59 - Received message: i am jon
+2026-06-15 15:50:00,219 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 15:53:25,829 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 15:53:31,319 - ChatbotLogger - INFO - Session d4852b44-186b-449e-be7b-def8bfd63c33 - Received message: hi
+2026-06-15 15:53:31,319 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 15:53:34,899 - ChatbotLogger - INFO - Session d4852b44-186b-449e-be7b-def8bfd63c33 - Received message: dssjgh
+2026-06-15 15:53:34,899 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 15:53:36,485 - ChatbotLogger - INFO - Session d4852b44-186b-449e-be7b-def8bfd63c33 - Received message: ghs
+2026-06-15 15:53:36,485 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 15:58:01,745 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 15:58:06,767 - ChatbotLogger - INFO - Session 36d24fdb-22fe-4852-a368-71391c5281f5 - Received message: hi
+2026-06-15 15:58:06,767 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 16:04:36,004 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:04:40,463 - ChatbotLogger - INFO - Session 66c11f3c-4115-4aa2-8e0a-5306503f4dfd - Received message: hi
+2026-06-15 16:04:40,463 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 16:08:50,757 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:09:02,231 - ChatbotLogger - INFO - Session bf77fec7-7018-4e57-a8ad-b97803a195d2 - Received message: hi
+2026-06-15 16:09:02,231 - ChatbotLogger - ERROR - Error in /chat endpoint: ChatbotEngine.get_response() got an unexpected keyword argument 'session_id'
+2026-06-15 16:14:14,967 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:14:20,300 - ChatbotLogger - INFO - Session 34be6da3-debd-43f3-bcc2-955677f67a81 - Received message: hi
+2026-06-15 16:14:20,300 - ChatbotLogger - ERROR - Error in /chat endpoint: 'ChatbotEngine' object has no attribute 'client'
+2026-06-15 16:18:03,877 - ChatbotLogger - INFO - Gemini Engine successfully initialized with explicit API Key.
+2026-06-15 16:18:24,092 - ChatbotLogger - INFO - Gemini Engine successfully initialized with explicit API Key.
+2026-06-15 16:18:25,427 - ChatbotLogger - INFO - Gemini Engine successfully initialized with explicit API Key.
+2026-06-15 16:18:55,084 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:18:59,352 - ChatbotLogger - INFO - Session 14fcbddb-479e-4788-9737-89084d89945f - Received message: hi
+2026-06-15 16:19:42,347 - ChatbotLogger - INFO - Session 14fcbddb-479e-4788-9737-89084d89945f - Received message: i  want a casual talk with you
+2026-06-15 16:19:45,577 - ChatbotLogger - ERROR - Gemini API Execution Failure: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-06-15 16:22:40,189 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:22:41,961 - ChatbotLogger - INFO - Gemini Engine successfully initialized with explicit API Key.
+2026-06-15 16:22:49,664 - ChatbotLogger - INFO - Session 252d44fd-2830-4d41-a2f5-3996558cbf91 - Received message: hi
+2026-06-15 16:22:50,291 - ChatbotLogger - ERROR - Gemini API Execution Failure: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-06-15 16:22:54,779 - ChatbotLogger - INFO - Session 252d44fd-2830-4d41-a2f5-3996558cbf91 - Received message: Where is my order?
+2026-06-15 16:22:54,943 - ChatbotLogger - ERROR - Gemini API Execution Failure: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-06-15 16:22:57,203 - ChatbotLogger - INFO - Session 252d44fd-2830-4d41-a2f5-3996558cbf91 - Received message: What is your return policy?
+2026-06-15 16:22:57,342 - ChatbotLogger - ERROR - Gemini API Execution Failure: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-06-15 16:23:02,210 - ChatbotLogger - INFO - Session 252d44fd-2830-4d41-a2f5-3996558cbf91 - Received message: What is your return policy?
+2026-06-15 16:23:02,364 - ChatbotLogger - ERROR - Gemini API Execution Failure: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-06-15 16:23:31,600 - ChatbotLogger - INFO - Gemini Engine successfully initialized with explicit API Key.
+2026-06-15 16:23:32,946 - ChatbotLogger - INFO - Gemini Engine successfully initialized with explicit API Key.
+2026-06-15 16:23:51,861 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:23:57,767 - ChatbotLogger - INFO - Session c6a2e613-84f5-485b-8424-9bbb95f8eb8c - Received message: hi
+2026-06-15 16:23:57,957 - ChatbotLogger - ERROR - Gemini API Execution Failure: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-06-15 16:24:06,021 - ChatbotLogger - INFO - Session c6a2e613-84f5-485b-8424-9bbb95f8eb8c - Received message: hi
+2026-06-15 16:24:06,272 - ChatbotLogger - ERROR - Gemini API Execution Failure: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-06-15 16:25:11,839 - ChatbotLogger - INFO - Gemini Engine successfully initialized with explicit API Key.
+2026-06-15 16:25:28,974 - ChatbotLogger - INFO - Gemini Engine successfully initialized with explicit API Key.
+2026-06-15 16:25:30,418 - ChatbotLogger - INFO - Gemini Engine successfully initialized with explicit API Key.
+2026-06-15 16:25:44,790 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:25:51,993 - ChatbotLogger - INFO - Session dd0e4001-e3f3-484e-a5e4-c86f352909eb - Received message: hi
+2026-06-15 16:26:25,695 - ChatbotLogger - INFO - Session dd0e4001-e3f3-484e-a5e4-c86f352909eb - Received message: i want a casual talk from you
+2026-06-15 16:27:08,285 - ChatbotLogger - INFO - Session dd0e4001-e3f3-484e-a5e4-c86f352909eb - Received message: please crack ajoke
+2026-06-15 16:27:30,435 - ChatbotLogger - INFO - Session dd0e4001-e3f3-484e-a5e4-c86f352909eb - Received message: interesting
+2026-06-15 16:27:56,152 - ChatbotLogger - INFO - Session dd0e4001-e3f3-484e-a5e4-c86f352909eb - Received message: do you know the capital of rajasthan
+2026-06-15 16:27:58,133 - ChatbotLogger - ERROR - Gemini API Execution Failure: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-06-15 16:28:31,159 - ChatbotLogger - INFO - Session dd0e4001-e3f3-484e-a5e4-c86f352909eb - Received message: do you know the capital of rajasthan
+2026-06-15 16:29:15,465 - ChatbotLogger - INFO - Session dd0e4001-e3f3-484e-a5e4-c86f352909eb - Received message: can you suggest me the bussines in jaipur 
+2026-06-15 16:29:27,103 - ChatbotLogger - ERROR - Gemini API Execution Failure: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-06-15 16:34:23,291 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:34:30,298 - ChatbotLogger - INFO - Session 8a6c39ae-3c10-4e78-ae5d-268a9faa1b6f - Received message: hi
+2026-06-15 16:34:30,298 - ChatbotLogger - ERROR - Error in /chat endpoint: 'ChatbotEngine' object has no attribute 'client'
+2026-06-15 16:35:10,926 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:35:15,899 - ChatbotLogger - INFO - Session 7cae7856-0066-432c-8139-8b21d91caffc - Received message: hi
+2026-06-15 16:35:15,899 - ChatbotLogger - ERROR - Error in /chat endpoint: 'ChatbotEngine' object has no attribute 'client'
+2026-06-15 16:37:52,089 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:38:04,698 - ChatbotLogger - INFO - Session 2f35e237-6fb4-4a44-bf74-db3542beaafd - Received message: hi
+2026-06-15 16:38:04,699 - ChatbotLogger - ERROR - Error in /chat endpoint: 'ChatbotEngine' object has no attribute 'client'
+2026-06-15 16:43:22,328 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:43:39,900 - ChatbotLogger - INFO - Session 35282d71-e11c-4b1b-a79f-4d6e685b632c - Received message: hi
+2026-06-15 16:43:39,900 - ChatbotLogger - ERROR - Error in /chat endpoint: 'ChatbotEngine' object has no attribute 'client'
+2026-06-15 16:48:15,271 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:48:29,470 - ChatbotLogger - INFO - Session 596b634f-b7c4-48ee-917f-3e9078bd639e - Received message: hi
+2026-06-15 16:48:29,471 - ChatbotLogger - ERROR - Error in /chat endpoint: 'ChatbotEngine' object has no attribute 'client'
+2026-06-15 16:52:41,500 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 16:52:46,499 - ChatbotLogger - INFO - Session 212d4626-cf3f-4bb8-b877-3a79d2b6dce8 - Received message: hi
+2026-06-15 16:52:46,499 - ChatbotLogger - ERROR - Error in /chat endpoint: 'ChatbotEngine' object has no attribute 'client'
+2026-06-15 17:02:44,518 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 17:02:50,645 - ChatbotLogger - INFO - Session a1dc2508-473d-4212-82ea-9a30840e0f17 - Received message: hi
+2026-06-15 17:02:50,645 - ChatbotLogger - ERROR - Error in /chat endpoint: 'ChatbotEngine' object has no attribute 'client'
+2026-06-15 17:06:11,247 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 17:06:14,734 - ChatbotLogger - INFO - Session 30c8df7b-ec68-48d7-a625-b2856d3de7a9 - Received message: hi
+2026-06-15 17:06:15,381 - ChatbotLogger - INFO - Gemini Engine explicitly initialized inside response call.
+2026-06-15 17:06:48,240 - ChatbotLogger - INFO - Session 30c8df7b-ec68-48d7-a625-b2856d3de7a9 - Received message: when you were born
+2026-06-15 17:07:38,065 - ChatbotLogger - INFO - Session 30c8df7b-ec68-48d7-a625-b2856d3de7a9 - Received message: i have created you with the help of google
+2026-06-15 17:08:26,430 - ChatbotLogger - INFO - Session 30c8df7b-ec68-48d7-a625-b2856d3de7a9 - Received message: are youignoring me
+2026-06-15 17:10:56,075 - ChatbotLogger - INFO - Session 30c8df7b-ec68-48d7-a625-b2856d3de7a9 - Received message: before you were showing me errors but then i fixes you
+2026-06-15 17:12:21,891 - ChatbotLogger - INFO - Session 30c8df7b-ec68-48d7-a625-b2856d3de7a9 - Received message: tell me on which llm you are working
+2026-06-15 17:12:47,717 - ChatbotLogger - INFO - Session 30c8df7b-ec68-48d7-a625-b2856d3de7a9 - Received message: ok forget every thing
+2026-06-15 17:13:20,608 - ChatbotLogger - INFO - Session 30c8df7b-ec68-48d7-a625-b2856d3de7a9 - Received message: crack a joke for me in hindi
+2026-06-15 17:15:24,337 - ChatbotLogger - INFO - Session 30c8df7b-ec68-48d7-a625-b2856d3de7a9 - Received message: i have my cusien with me and he wants to play cricket 
+2026-06-15 17:18:15,099 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 17:18:24,318 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 17:18:24,857 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 17:18:25,066 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 17:18:25,408 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 17:18:57,259 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 17:19:05,600 - ChatbotLogger - INFO - Session 7977385e-63f0-41a5-9a70-53476ffb68b3 - Received message: hi
+2026-06-15 17:19:15,873 - ChatbotLogger - INFO - Session 7977385e-63f0-41a5-9a70-53476ffb68b3 - Received message: crack a jock
+2026-06-15 17:20:00,283 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 17:21:00,244 - ChatbotLogger - INFO - Session a6534269-3f5e-4c74-9b72-b83e80b9c39e - Received message: crack a koke
+2026-06-15 17:21:00,861 - ChatbotLogger - INFO - Gemini Engine explicitly initialized inside response call.
+2026-06-15 17:21:05,146 - ChatbotLogger - WARNING - Hit a 503 server spike. Retrying...
+2026-06-15 17:21:07,079 - ChatbotLogger - ERROR - Gemini API Failure: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 52.447632491s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}}
+2026-06-15 17:21:21,263 - ChatbotLogger - INFO - Session a6534269-3f5e-4c74-9b72-b83e80b9c39e - Received message: crack a joke
+2026-06-15 17:21:21,816 - ChatbotLogger - ERROR - Gemini API Failure: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 37.739005026s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}
+2026-06-15 17:21:29,890 - ChatbotLogger - INFO - Session a6534269-3f5e-4c74-9b72-b83e80b9c39e - Received message: hi
+2026-06-15 17:21:30,412 - ChatbotLogger - ERROR - Gemini API Failure: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 29.096223073s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
+2026-06-15 17:21:49,661 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 17:21:56,654 - ChatbotLogger - INFO - Session 5765e943-ef6e-4cd4-b6b2-efe98bf6ceaa - Received message: hi
+2026-06-15 17:21:57,846 - ChatbotLogger - WARNING - Hit a 503 server spike. Retrying...
+2026-06-15 17:21:59,746 - ChatbotLogger - ERROR - Gemini API Failure: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 59.760419214s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '59s'}]}}
+2026-06-15 17:23:03,262 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 17:23:08,719 - ChatbotLogger - INFO - Session 43f95740-82df-42de-890e-6546beee8ce0 - Received message: hi
+2026-06-15 17:23:09,341 - ChatbotLogger - INFO - Gemini Engine explicitly initialized inside response call.
+2026-06-15 17:23:10,093 - ChatbotLogger - ERROR - Gemini API Failure: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 49.436638098s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}}
+2026-06-15 18:52:18,816 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 18:52:57,390 - ChatbotLogger - INFO - Session d7e6a0a2-fd04-4659-b0e6-7b8e0a0ab1b9 - Received message: hi
+2026-06-15 18:53:00,172 - ChatbotLogger - INFO - Gemini Engine explicitly initialized inside response call.
+2026-06-15 18:53:28,281 - ChatbotLogger - INFO - Session d7e6a0a2-fd04-4659-b0e6-7b8e0a0ab1b9 - Received message: how are you
+2026-06-15 18:59:56,577 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 19:00:43,929 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 19:03:41,024 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 19:04:30,841 - ChatbotLogger - INFO - Session 014f3ba7-2db8-4ce0-a628-9c8aec484490 - Received message: What is your return policy?
+2026-06-15 19:04:33,536 - ChatbotLogger - INFO - Gemini Engine explicitly initialized inside response call.
+2026-06-15 19:04:34,405 - ChatbotLogger - ERROR - Gemini API Failure: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 25.205551496s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '25s'}]}}
+2026-06-15 19:04:47,574 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 19:04:51,289 - ChatbotLogger - INFO - Session 213a89f7-45e6-4d48-b1b5-4100988b6ff0 - Received message: hi
+2026-06-15 19:04:52,113 - ChatbotLogger - ERROR - Gemini API Failure: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 7.468094762s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '7s'}]}}
+2026-06-15 19:04:55,989 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 19:07:08,780 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 19:07:31,863 - ChatbotLogger - INFO - Session 6ea829bd-9263-42c4-bf65-007b7dbaf82d - Received message: hi
+2026-06-15 19:07:33,596 - ChatbotLogger - INFO - Gemini Engine explicitly initialized inside response call.
+2026-06-15 19:07:34,426 - ChatbotLogger - ERROR - Gemini API Failure: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 25.17278333s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '25s'}]}}
+2026-06-15 19:07:49,781 - ChatbotLogger - INFO - Clearing history for session 6ea829bd-9263-42c4-bf65-007b7dbaf82d
+2026-06-15 19:09:15,395 - ChatbotLogger - INFO - Session 6ea829bd-9263-42c4-bf65-007b7dbaf82d - Received message: hi
+2026-06-15 19:09:16,160 - ChatbotLogger - ERROR - Gemini API Failure: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 43.364663064s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}}
+2026-06-15 19:11:33,233 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 19:11:37,544 - ChatbotLogger - INFO - Session a1752f15-7ea4-4151-90f8-63e05f2a5e9d - Received message: hi
+2026-06-15 19:11:38,328 - ChatbotLogger - ERROR - Gemini API Failure: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 21.22665515s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '21s'}]}}
+2026-06-15 19:12:31,913 - ChatbotLogger - INFO - Accessing root endpoint.
+2026-06-15 19:12:52,340 - ChatbotLogger - INFO - Session f71919c7-a547-4897-bf37-0434f8542fbb - Received message: hi
+2026-06-15 19:12:54,853 - ChatbotLogger - INFO - Gemini Engine explicitly initialized inside response call.
+2026-06-15 19:12:55,958 - ChatbotLogger - ERROR - Gemini API Failure: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 3.610883277s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '3s'}]}}

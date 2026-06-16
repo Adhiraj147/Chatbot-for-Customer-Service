@@ -1,0 +1,301 @@
+{
+  "intents": [
+    {
+      "intent": "greeting",
+      "patterns": [
+        "Hi", "Hello", "Hey", "Good morning", "Good afternoon", "Good evening",
+        "Hi there", "Hello there", "Hey there", "Is anyone there?", "What's up"
+      ],
+      "responses": [
+        "Hello! How can I help you today?",
+        "Hi there! What can I assist you with?",
+        "Greetings! How may I be of service?",
+        "Hey! Welcome to our customer support. How can I help?",
+        "Good day! What can I do for you today?"
+      ]
+    },
+    {
+      "intent": "goodbye",
+      "patterns": [
+        "Bye", "Goodbye", "See you later", "Talk to you later", "Have a good day",
+        "Catch you later", "I'm leaving", "Bye bye", "Farewell", "See ya"
+      ],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you later! Let us know if you need anything else.",
+        "Take care! Thank you for contacting us.",
+        "Bye! Feel free to reach out again.",
+        "Have a wonderful day! Goodbye!"
+      ]
+    },
+    {
+      "intent": "thanks",
+      "patterns": [
+        "Thanks", "Thank you", "That's helpful", "Thanks a lot", "Thank you so much",
+        "Much appreciated", "I appreciate it", "Great thanks", "Awesome thanks", "Thanks for your help"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Happy to help!",
+        "Anytime! Is there anything else you need?",
+        "My pleasure!",
+        "Glad I could be of assistance."
+      ]
+    },
+    {
+      "intent": "order_status",
+      "patterns": [
+        "Where is my order?", "Track my order", "Order status", "What is the status of my order?",
+        "Has my order shipped?", "Check order status", "Find my order", "Where's my package?",
+        "Did my order go through?", "Is my order processed?"
+      ],
+      "responses": [
+        "You can track your order using the link sent to your email.",
+        "Please provide your order number so I can check the status.",
+        "Order status is available in the 'My Account' section on our website.",
+        "Most orders are processed within 24 hours. You'll receive an email with tracking details.",
+        "I can help with that. What is your 8-digit order number?"
+      ]
+    },
+    {
+      "intent": "shipping",
+      "patterns": [
+        "Shipping time?", "How long does shipping take?", "Delivery details", "When will I receive my order?",
+        "Shipping methods", "Do you offer free shipping?", "International shipping", "Shipping costs",
+        "Expedited shipping", "How fast is delivery?"
+      ],
+      "responses": [
+        "Orders are usually delivered within 3-7 business days.",
+        "Standard shipping generally takes 5 business days. Expedited options are available at checkout.",
+        "Delivery time depends on your location. Check our shipping policy page for detailed estimates.",
+        "We offer free standard shipping on all orders over $50.",
+        "Yes, we ship internationally! Delivery typically takes 7-14 business days depending on the country."
+      ]
+    },
+    {
+      "intent": "return",
+      "patterns": [
+        "How do I return an item?", "Return policy", "Can I return this?", "I want to return my order",
+        "Return process", "How many days to return?", "Are returns free?", "Exchange an item",
+        "Return label", "Where to send returns"
+      ],
+      "responses": [
+        "You can return items within 30 days of receipt. Please visit our returns portal to get a label.",
+        "Our return policy covers unwashed and unworn items for 30 days after delivery.",
+        "To start a return, log into your account and select 'Request Return' on the specific order.",
+        "Returns are free for store credit, or subject to a $5 restocking fee for original payment methods.",
+        "Once you initiate a return online, you will receive a printable shipping label via email."
+      ]
+    },
+    {
+      "intent": "refund",
+      "patterns": [
+        "When will I get my refund?", "Refund status", "Where is my refund?", "How long for a refund?",
+        "Refund policy", "Did you process my refund?", "I haven't received my refund", "Money back",
+        "Refund timeline", "Refund to credit card"
+      ],
+      "responses": [
+        "Refunds are processed within 5-7 business days after we receive your returned item.",
+        "Once your return is inspected, the refund will be credited back to your original payment method.",
+        "It may take your bank an additional 2-3 business days to post the refund to your account.",
+        "You will receive an email confirmation as soon as your refund has been processed.",
+        "If you haven't received your refund after 10 days, please contact our support team."
+      ]
+    },
+    {
+      "intent": "payment",
+      "patterns": [
+        "What payment methods do you accept?", "Can I pay with PayPal?", "Do you take Apple Pay?",
+        "Payment options", "Credit cards accepted", "Is my payment secure?", "Failed payment",
+        "Installment plans", "Buy now pay later", "Payment error"
+      ],
+      "responses": [
+        "We accept Visa, Mastercard, American Express, PayPal, and Apple Pay.",
+        "Yes, we offer secure checkout via Stripe, accepting all major credit cards.",
+        "We currently support Afterpay and Klarna for buy-now-pay-later options.",
+        "All our payment gateways are fully encrypted and secure.",
+        "If your payment failed, please check with your bank or try an alternative payment method."
+      ]
+    },
+    {
+      "intent": "delivery",
+      "patterns": [
+        "Package not delivered", "Missing package", "Delivered but not here", "Lost order",
+        "Wrong delivery address", "Change delivery address", "Delivery company", "Who delivers your packages?",
+        "Leave at door", "Signature required"
+      ],
+      "responses": [
+        "If your tracking shows delivered but you can't find it, please check with neighbors or wait 24 hours.",
+        "We ship via UPS, FedEx, and USPS depending on the order size and destination.",
+        "To change your delivery address, please contact us within 1 hour of placing the order.",
+        "If your package is lost, please let us know and we will open an investigation with the carrier.",
+        "Most packages do not require a signature unless specifically requested or over $500 in value."
+      ]
+    },
+    {
+      "intent": "contact",
+      "patterns": [
+        "How can I contact you?", "Phone number", "Customer service email", "Speak to a human",
+        "Live agent", "Contact support", "Where are you located?", "Mailing address",
+        "Help desk", "Call you"
+      ],
+      "responses": [
+        "You can reach our customer support team at support@example.com or call 1-800-123-4567.",
+        "Our live agents are available via phone at 1-800-123-4567 during business hours.",
+        "Feel free to email us at support@example.com and we'll reply within 24 hours.",
+        "Our main headquarters is located at 123 Tech Street, Silicon Valley, CA.",
+        "If you need immediate assistance, calling 1-800-123-4567 is the fastest option."
+      ]
+    },
+    {
+      "intent": "product",
+      "patterns": [
+        "Is this in stock?", "Product availability", "When will this be restocked?", "Product details",
+        "Material of the product", "Where is it made?", "Product warranty", "Quality guarantee",
+        "More info about a product", "Tell me about this item"
+      ],
+      "responses": [
+        "Stock availability is shown directly on the product page. If it says 'Out of Stock', you can sign up for email notifications.",
+        "Our products are ethically manufactured and made with premium materials.",
+        "All our products come with a 1-year limited warranty against manufacturing defects.",
+        "Detailed specifications can be found under the 'Details' tab on each product page.",
+        "We restock popular items every 2 weeks. Sign up for our newsletter to get notified."
+      ]
+    },
+    {
+      "intent": "account",
+      "patterns": [
+        "Create an account", "How to sign up", "Delete my account", "Account settings",
+        "Change my email", "Update profile", "Guest checkout", "Do I need an account?",
+        "Manage account", "Close account"
+      ],
+      "responses": [
+        "You can create an account by clicking the 'Sign Up' button in the top right corner of our website.",
+        "Having an account allows you to track orders easily, but guest checkout is also available.",
+        "To update your email or profile information, log in and navigate to 'Account Settings'.",
+        "If you wish to delete your account permanently, please contact our support team.",
+        "Managing your account is easy! Just log in to view your order history and saved addresses."
+      ]
+    },
+    {
+      "intent": "complaint",
+      "patterns": [
+        "I want to complain", "Terrible service", "Unhappy with my order", "Item is broken",
+        "Received wrong item", "Defective product", "Bad experience", "Filing a complaint",
+        "This is ridiculous", "Not satisfied"
+      ],
+      "responses": [
+        "I am so sorry to hear you've had a bad experience. Please let me know how we can make this right.",
+        "We apologize for the inconvenience. If you received a defective item, please send us a photo and we'll replace it immediately.",
+        "Your satisfaction is our priority. Please provide your order number so a manager can review your case.",
+        "I apologize for the frustration. I can connect you with a senior support agent to resolve this.",
+        "We take complaints very seriously. Please email support@example.com with the subject 'Complaint' for expedited review."
+      ]
+    },
+    {
+      "intent": "support",
+      "patterns": [
+        "I need help", "Help me", "Support", "Assistance needed", "I have a problem",
+        "Can you help me?", "Technical support", "Website is broken", "App isn't working",
+        "Error on checkout"
+      ],
+      "responses": [
+        "I'm here to help! Please describe the issue you are facing.",
+        "What kind of assistance do you need today?",
+        "If you are experiencing technical issues, please try clearing your browser cache or trying a different browser.",
+        "Let me know what the problem is and I'll do my best to solve it.",
+        "I can assist you! Could you provide more details about the error you are seeing?"
+      ]
+    },
+    {
+      "intent": "hours",
+      "patterns": [
+        "Business hours", "When are you open?", "Are you open on weekends?", "Operating hours",
+        "What time do you close?", "Customer service hours", "Store hours", "Holiday hours",
+        "Are you open today?", "Availability"
+      ],
+      "responses": [
+        "Our customer support team is available Monday through Friday, 9 AM to 6 PM EST.",
+        "We are open on weekdays from 9 AM to 6 PM EST. We are closed on weekends and major holidays.",
+        "You can reach us during our operating hours: Mon-Fri, 9am-6pm. Outside these hours, please send an email.",
+        "Our online store is open 24/7, but live support is available M-F 9-6 EST.",
+        "Holiday hours may vary. Please check our website banner for any specific holiday closures."
+      ]
+    },
+    {
+      "intent": "password_reset",
+      "patterns": [
+        "Forgot password", "Reset my password", "Can't log in", "Locked out of account",
+        "Password recovery", "Change my password", "I lost my password", "Invalid login",
+        "How do I reset my password?", "Password help"
+      ],
+      "responses": [
+        "To reset your password, click 'Forgot Password' on the login page and enter your email address.",
+        "You will receive a password reset link in your email inbox within a few minutes.",
+        "If you don't receive the reset email, please check your spam folder.",
+        "For security reasons, we cannot change your password for you. You must use the reset link.",
+        "Once you click the reset link, you'll be prompted to create a new, secure password."
+      ]
+    },
+    {
+      "intent": "promotions",
+      "patterns": [
+        "Discount code", "Promo code", "Coupons", "Are there any sales?",
+        "Current promotions", "Student discount", "Military discount", "First time buyer discount",
+        "How to apply a promo code?", "Sale items"
+      ],
+      "responses": [
+        "Sign up for our newsletter to receive a 10% discount on your first order!",
+        "You can enter your promo code at checkout in the 'Discount Code' box.",
+        "We are currently offering free shipping on all orders over $50. No code needed.",
+        "We offer a 15% discount for students and military personnel. Verify your status on our discounts page.",
+        "Check out our 'Sale' section for up to 50% off clearance items."
+      ]
+    },
+    {
+      "intent": "sizing",
+      "patterns": [
+        "Size guide", "How does this fit?", "Is it true to size?", "Measurements",
+        "What size should I get?", "Do you have plus sizes?", "Shoe sizing", "Clothing sizes",
+        "Sizing chart", "Fit details"
+      ],
+      "responses": [
+        "Our items generally run true to size. Please refer to the size chart on the product page for exact measurements.",
+        "You can find a detailed size guide with measurements in inches and centimeters on every product page.",
+        "If you are between sizes, we recommend sizing up for a more relaxed fit.",
+        "Yes, we offer extended sizing up to 3XL on select items.",
+        "If the fit isn't right, you can easily exchange it for a different size within 30 days."
+      ]
+    },
+    {
+      "intent": "cancel_order",
+      "patterns": [
+        "Cancel my order", "I want to cancel", "Can I cancel?", "Stop order",
+        "Cancel shipment", "Mistake on order", "Ordered by accident", "How to cancel",
+        "Order cancellation", "Cancel purchase"
+      ],
+      "responses": [
+        "Orders can only be canceled within 1 hour of placement. Please contact support immediately.",
+        "If your order has not yet shipped, we can process a cancellation. Please provide your order number.",
+        "Once an order is in transit, it cannot be canceled, but you can return it for a full refund.",
+        "To request a cancellation, email us with the subject 'URGENT CANCELLATION'.",
+        "We process orders quickly, so cancellation windows are very short. Contact us right away!"
+      ]
+    },
+    {
+      "intent": "subscription",
+      "patterns": [
+        "Newsletter", "Subscribe", "Unsubscribe", "Mailing list",
+        "Stop emails", "How to subscribe", "Email preferences", "Too many emails",
+        "Join mailing list", "Sign up for updates"
+      ],
+      "responses": [
+        "You can subscribe to our newsletter at the bottom of our homepage.",
+        "Subscribers get early access to sales and exclusive discounts!",
+        "To unsubscribe from emails, click the 'Unsubscribe' link at the bottom of any promotional email.",
+        "You can manage your email preferences in your account settings.",
+        "If you're receiving too many emails, you can choose to receive only weekly summaries instead."
+      ]
+    }
+  ]
+}
